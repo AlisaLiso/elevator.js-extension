@@ -1,0 +1,14 @@
+{
+  "name": "elevator_extension",
+  "version": "1.0.0",
+  "description": "## Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alisaliso",
+  "license": "ISC",
+  "dependencies": {
+    "elevator.js": "^1.0.1"
+  }
+}
